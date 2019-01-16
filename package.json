@@ -1,0 +1,15 @@
+{
+  "name": "MiniGam1ng Network Bot",
+  "version": "1.0.0",
+  "description": "Bot oficial da MiniGam1ng Network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Erro: sem texto especificado\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
